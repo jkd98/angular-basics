@@ -1,0 +1,9 @@
+.item-listado__grid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn {
+    font-weight: bold;
+}
